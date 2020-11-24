@@ -158,3 +158,18 @@ footer {
     width: 50%;
     padding: 1rem;
 }
+
+.blog-page {
+    max-width: 800px;
+    text-align: center;
+    margin: auto;
+    padding: 2rem 1rem 2rem 0rem;
+}
+
+.image-blog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding: 1rem;
+}
