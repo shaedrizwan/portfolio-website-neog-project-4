@@ -108,3 +108,8 @@ p {
 footer {
     padding-bottom: 10px;
 }
+
+.social .footer-inline {
+    display: inline;
+    padding: 0rem 1rem;
+}
